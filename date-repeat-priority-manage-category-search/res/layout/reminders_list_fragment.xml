@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="MONDAY"
+            android:textColor="#000000"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="#000000"
+            android:layout_marginLeft="10dp" />
+
+        <ListView
+            android:id="@+id/lvMonday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="TUESDAY"
+            android:textColor="#0000FF"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="#0000FF"
+            android:layout_marginLeft="10dp" />
+
+        <ListView
+            android:id="@+id/lvTuesday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="WEDNESDAY"
+            android:textColor="#D2691E"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="#D2691E"
+            android:layout_marginLeft="10dp" />
+
+        <ListView
+            android:id="@+id/lvWednesday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="THURSDAY"
+            android:textColor="#008000"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:background="#008000"
+            android:layout_marginLeft="10dp" />
+
+        <ListView
+            android:id="@+id/lvThursday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="FRIDAY"
+            android:textColor="#FF1493"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:layout_marginLeft="10dp"
+            android:background="#FF1493" />
+
+        <ListView
+            android:id="@+id/lvFriday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="SATURDAY"
+            android:textColor="#cc0000"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:layout_marginLeft="10dp"
+            android:background="#cc0000" />
+
+        <ListView
+            android:id="@+id/lvSaturday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="7dp"
+            android:gravity="center_vertical"
+            android:text="SUNDAY"
+            android:textColor="#800080"
+            android:textSize="4.2pt"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1.5dp"
+            android:layout_marginLeft="10dp"
+            android:background="#800080" />
+
+        <ListView
+            android:id="@+id/lvSunday"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:background="#FFFFFF"
+            android:divider="#EFEFEF"
+            android:dividerHeight="1.5dp" />
+    </LinearLayout>
+</ScrollView>

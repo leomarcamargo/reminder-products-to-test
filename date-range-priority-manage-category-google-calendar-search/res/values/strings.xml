@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+  <string name="hello">Hello Reminder!</string>
+  <string name="app_name">Reminder</string>
+  <string name="add">Add</string>
+  <!-- Layout reminder_add -->
+  <string name="reminderName">Task</string>
+  <string name="reminderNameTip">Your task</string>
+  <string name="reminderDetails">Details</string>
+  <string name="reminderDetailsTip">Details of your task</string>
+  <string name="reminderDateStart">Initial Date</string>
+  <string name="reminderDateStartTip">DD-MM-AAAA</string>
+  <string name="reminderDateStartButton">Choose Initial Date</string>
+  <string name="reminderHourStart">Initial Time</string>
+  <string name="reminderHourStartTip">HH:MM</string>
+  <string name="reminderHourStartButton">Choose Initial Time</string>
+
+  <string name="reminderDateFinal">End Date</string>
+  <string name="reminderDateFinalTip">DD-MM-AAAA</string>
+  <string name="reminderDateFinalButton">Choose End Date</string>
+  <string name="reminderHourFinal">End Time</string>
+  <string name="reminderHourFinalTip">HH:MM</string>
+  <string name="reminderHourFinalButton">Choose End Time</string>
+  <string name="reminderCategory">Category</string>
+  <string name="context_menu_category_title">Category</string>
+  <!-- Category_list_fragment -->
+  <string name="addCategory">Add</string>
+  <!-- category_dialog -->
+  <string name="dialog_category_cancel">Cancel</string>
+  <!-- add_category_dialog -->
+  <string name="dialog_addcategory_name">Category\'s name</string>
+  <string name="dialog_addcategory_title">Add category:</string>
+  <string name="dialog_addcategory_add">Add</string>
+  <!-- edit_category_dialog -->
+  <string name="dialog_editcategory_title">Edit category:</string>
+  <string name="dialog_editcategory_save">Save</string>
+  <string name="reminderPriority">Priority</string>
+  <string name="reminderPriorityTip">Reminder\'s priority</string>
+  <string name="googleCalendar">Google Calendar</string>
+  <string name="search">Search</string>
+  <string name="menu_searchReminder">Search</string>
+  <string name="saveButton">Save</string>
+  <string name="cancelButton">Cancel</string>
+  <!-- Reminder_list_fragment -->
+  <string name="reminder_list_late">DELAYED</string>
+  <string name="reminder_list_today">TODAY</string>
+  <string name="reminder_list_nextdays">NEXT DAYS</string>
+  <!-- Activities title labels -->
+  <string name="title_activity_reminder_add">Add</string>
+  <string name="title_activity_reminder_edit">Edit</string>
+  <!-- ReminderMain context menu -->
+  <string name="context_menu_edit">Edit</string>
+  <string name="context_menu_delete">Delete</string>
+  <string name="context_menu_reminder_title">Reminder</string>
+  <!-- Action Bar titles -->
+  <string name="menu_addReminder">Add</string>
+</resources>

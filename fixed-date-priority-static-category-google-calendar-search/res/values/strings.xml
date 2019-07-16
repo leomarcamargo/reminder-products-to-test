@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+  <string name="hello">Hello Reminder!</string>
+  <string name="app_name">Reminder</string>
+  <string name="add">Add</string>
+  <!-- Layout reminder_add -->
+  <string name="reminderName">Task</string>
+  <string name="reminderNameTip">Your task</string>
+  <string name="reminderDetails">Details</string>
+  <string name="reminderDetailsTip">Details of your task</string>
+  <string name="reminderDate">Date</string>
+  <string name="reminderDateTip">DD-MM-AAAA</string>
+  <string name="reminderDateBlank">No Date</string>
+  <string name="reminderDateButton">Choose Date</string>
+  <string name="reminder_list_nodate">NO DATE</string>
+  <string name="reminderHour">Time</string>
+  <string name="reminderHourTip">HH:MM</string>
+  <string name="reminderHourBlank">No Time</string>
+  <string name="reminderHourButton">Choose Time</string>
+  <string name="reminderCategory">Category</string>
+  <string name="reminderPriority">Priority</string>
+  <string name="reminderPriorityTip">Reminder\'s priority</string>
+  <string name="googleCalendar">Google Calendar</string>
+  <string name="search">Search</string>
+  <string name="menu_searchReminder">Search</string>
+  <string name="saveButton">Save</string>
+  <string name="cancelButton">Cancel</string>
+  <!-- Reminder_list_fragment -->
+  <string name="reminder_list_late">DELAYED</string>
+  <string name="reminder_list_today">TODAY</string>
+  <string name="reminder_list_nextdays">NEXT DAYS</string>
+  <!-- Activities title labels -->
+  <string name="title_activity_reminder_add">Add</string>
+  <string name="title_activity_reminder_edit">Edit</string>
+  <!-- ReminderMain context menu -->
+  <string name="context_menu_edit">Edit</string>
+  <string name="context_menu_delete">Delete</string>
+  <string name="context_menu_reminder_title">Reminder</string>
+  <!-- Action Bar titles -->
+  <string name="menu_addReminder">Add</string>
+</resources>
